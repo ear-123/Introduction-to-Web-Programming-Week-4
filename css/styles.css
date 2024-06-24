@@ -34,4 +34,13 @@ body {
         padding: 10px;
     }
 }
+@media (max-width: 800px) {
+    img{
+        margin: auto;
+    }
+    p{
+        text-align: center;
+        padding: 10px;
+    }
+}
 
